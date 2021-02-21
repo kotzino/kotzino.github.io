@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Jekyll!"
+title: "test post!"
 date: 2021-02-21T15:34:30+01:00
 categories:
-  - blog
+  - test
 tags:
-  - Jekyll
+  - test
   - update
 ---
 
