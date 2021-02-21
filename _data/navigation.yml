@@ -8,7 +8,7 @@ main:
   - title: "About"
     url: /about/
     
-  docs:
+docs:
   - title: "Research"
     children:
       - title: "Papers"
@@ -17,6 +17,7 @@ main:
         url: /docs/structure/
       - title: "Collaborations"
         url: /docs/installation/
+        
   - title: "Teaching"
     children:
       - title: "Undergrad (License) Classes"
