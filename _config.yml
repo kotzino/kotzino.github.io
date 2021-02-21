@@ -106,7 +106,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar: true
+      sidebar: 
         nav: "docs"
 
 
