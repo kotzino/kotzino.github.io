@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dimitris Kotzinos"
   avatar : "/assets/images/kotzinos-seaside.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here - DIMITRIS bio"
+  bio    : "Professor, ETIS Lab, Department of Computer Science, CY Cergy Paris Universoty"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
