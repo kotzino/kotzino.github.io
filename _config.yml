@@ -109,7 +109,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: docs
+      type: 
     values:
       sidebar: 
       nav: "docs"
