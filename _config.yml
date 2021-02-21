@@ -106,13 +106,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-defaults:
   # _docs
   - scope:
       path: ""
       type: docs
     values:
-      sidebar:
+      sidebar: true
       nav: "docs"
 
 
