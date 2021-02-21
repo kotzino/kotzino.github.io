@@ -99,7 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar: 
       nav: "docs"
   # _pages
   - scope:
@@ -108,15 +107,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar: 
       nav: "docs"
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar: 
-      nav: "docs"
+
 
 
 category_archive:
