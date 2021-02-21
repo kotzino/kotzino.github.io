@@ -17,7 +17,6 @@ docs:
         url: /docs/structure/
       - title: "Collaborations"
         url: /docs/installation/
-        
   - title: "Teaching"
     children:
       - title: "Undergrad (License) Classes"
