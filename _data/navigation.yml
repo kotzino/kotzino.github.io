@@ -7,3 +7,24 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+    
+  docs:
+  - title: Research
+    children:
+      - title: "Papers"
+        url: /docs/quick-start-guide/
+      - title: "Projects"
+        url: /docs/structure/
+      - title: "Collaborations"
+        url: /docs/installation/
+ - title: Teaching
+    children:
+      - title: "Undergrad (License) Classes"
+        url: /docs/quick-start-guide/
+      - title: "Postgrad (Master) Classes"
+        url: /docs/structure/
+      - title: "Other"
+        url: /docs/installation/
+      - title: "Office Hours"
+        url: /docs/upgrading/
+
