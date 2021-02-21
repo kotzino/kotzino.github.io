@@ -9,7 +9,7 @@ main:
     url: /about/
     
   docs:
-  - title: Research
+  - title: "Research"
     children:
       - title: "Papers"
         url: /docs/quick-start-guide/
@@ -17,7 +17,7 @@ main:
         url: /docs/structure/
       - title: "Collaborations"
         url: /docs/installation/
- - title: Teaching
+  - title: "Teaching"
     children:
       - title: "Undergrad (License) Classes"
         url: /docs/quick-start-guide/
