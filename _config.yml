@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dimitris Kotzinos"
-  avatar : "/assets/images/kotzinos-seaside.jpg"
+  avatar : "/assets/images/kotzinos-seaside.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here - DIMITRIS bio"
   links:
     - label: "Website"
