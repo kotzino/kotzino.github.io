@@ -12,19 +12,19 @@ docs:
   - title: "Research"
     children:
       - title: "Papers"
-        url: /docs/quick-start-guide/
+        url: /docs/
       - title: "Projects"
-        url: /docs/structure/
+        url: /docs/
       - title: "Collaborations"
-        url: /docs/installation/
+        url: /docs/
   - title: "Teaching"
     children:
       - title: "Undergrad (License) Classes"
-        url: /docs/quick-start-guide/
+        url: /docs/
       - title: "Postgrad (Master) Classes"
-        url: /docs/structure/
+        url: /docs/
       - title: "Other"
-        url: /docs/installation/
+        url: /docs/
       - title: "Office Hours"
-        url: /docs/upgrading/
+        url: /docs/
 
