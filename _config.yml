@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dimitris Kotzinos"
   avatar : "/assets/images/kotzinos-seaside.JPG"
-  bio    : "Professor, <br> ETIS Lab, Department of Computer Science, CY Cergy Paris University"
+  bio    : "Professor <br> ETIS Lab UMR 8051, <br> Department of Computer Science, <br> CY Cergy Paris University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
