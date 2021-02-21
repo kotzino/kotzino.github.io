@@ -2,6 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Research"
+    url: /docs/
     children:
       - title: "Papers"
         url: /docs/
@@ -10,6 +11,7 @@ main:
       - title: "Collaborations"
         url: /docs/
   - title: "Teaching"
+    url: /docs/
     children:
       - title: "Undergrad (License) Classes"
         url: /docs/
