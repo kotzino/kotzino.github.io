@@ -106,13 +106,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: "_posts"
       type: posts
     values:
       sidebar:
-      nav: "docs"
+        nav: "docs"
 
 category_archive:
   type: liquid
