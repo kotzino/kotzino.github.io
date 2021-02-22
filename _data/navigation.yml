@@ -1,6 +1,14 @@
 main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
     url: /about/
+
+docs:
   - title: "Research"
     url: /docs/
     children:
@@ -21,13 +29,5 @@ main:
         url: /docs/
       - title: "Office Hours"
         url: /docs/
-        
-docs:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
 
 
